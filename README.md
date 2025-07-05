@@ -2,7 +2,7 @@
 
 > 从 0 到 1，带你开发自己的 RPC 框架
 >
-> 鱼皮原创项目教程系列：https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd
+> 鱼皮原创项目教程系列：[https://www.codefather.cn/post/1797431216467001345](https://www.codefather.cn/post/1797431216467001345)
 
 
 
@@ -15,11 +15,11 @@
 - 基础版只需学几个小时，就能写在简历上的小项目~
 - 扩展版将是充满亮点的技术类项目，搭配一个业务项目，让简历更有竞争力。
 
-> 开始学习或了解详情：[手写 RPC 框架（24 年最新）](https://yuyuanweb.feishu.cn/wiki/EweIwSYsXiEvCDkzS8BcTiAonyc)
+> 开始学习或了解详情：[手写 RPC 框架](https://www.codefather.cn/course/1768543954720022530)
 >
 > 开源地址：https://github.com/liyupi/yu-rpc
 >
-> [教程第一章可免费学习](https://www.code-nav.cn/course/1768543954720022530/section/1768545847093518337)
+> [教程第一章可免费学习](https://www.codefather.cn/course/1768543954720022530/section/1768545847093518337)
 >
 > [导学视频 - RPC 讲解](https://www.bilibili.com/video/BV1AJ4m1H7XL)
 
